@@ -1,0 +1,1 @@
+Cada golpe/magia terá seu XP próprio, e apenas usando ela em combate ou treinando!

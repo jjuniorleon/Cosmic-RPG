@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"7d5cd7a2ead99abb","type":"file","file":"Regras/Corpo/Imagens/Imagem corpo1.png","x":-720,"y":-400,"width":259,"height":400},
+		{"id":"66107c07eed6f36b","type":"text","text":"**Vida localizada**","x":-715,"y":40,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"db329fcd1398c851","fromNode":"66107c07eed6f36b","fromSide":"top","toNode":"7d5cd7a2ead99abb","toSide":"bottom"}
+	]
+}

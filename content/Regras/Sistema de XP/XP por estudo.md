@@ -1,0 +1,1 @@
+Sim aqui o XP não é apenas nos combates, você concorda comigo que se você é um mago, não faz sentido aprender uma magia apenas matando bichos. Então aqui você pode ler grimorios para aprender magias.
